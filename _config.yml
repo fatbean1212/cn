@@ -1,10 +1,8 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://mingxinglai.com/cn
-author: 赖明星
+url: http://www.fatbean1212.com/cn
+author: 黑贤
 pygments: true
-production_url : http://mingxinglai.com/cn
-name: 好一个淳朴的农民
-description: 赖明星的个人博客
-
-
+production_url : http://www.fatbean1212.com/cn
+name: 黑贤的小窝
+description: follow you heard
