@@ -1,9 +1,9 @@
 baseurl: /cn
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://www.fatbean1212.com/cn
+#url: http://www.fatbean1212.com/cn
 author: 黑贤
 pygments: true
-production_url : http://www.fatbean1212.com/cn
+#production_url : http://www.fatbean1212.com/cn
 name: 黑贤的小窝
 description: follow you heard
